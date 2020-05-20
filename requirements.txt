@@ -4,7 +4,7 @@ redis
 requests==2.16.5
 pyTelegramBotAPI==3.6.6
 beautifulsoup4==4.6.0
-httplib2==0.12.1
+httplib2==0.18.0
 google-api-python-client==1.7.8
 google-auth-oauthlib==0.3.0
 oauth2client==4.1.3
